@@ -71,3 +71,5 @@ sudo apt-get install nfs-common -y
 
 echo "${green} - Cleanup${reset}"
 sudo rm -rf /var/lib/kubelet/*
+
+echo "${green}Done${reset}"
